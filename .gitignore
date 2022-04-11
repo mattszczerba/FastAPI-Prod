@@ -1,0 +1,8 @@
+__pycache__
+app/__pycache__
+app/routers/__pycache__
+venv/
+venv2/
+.env
+*.pyc
+requirements2.txt
